@@ -1,0 +1,25 @@
+.top-container{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.wrapper1{
+    display: flex;
+    align-items: center;
+}
+
+.wrapper1 h2, .location h3{
+    color: white;
+    text-decoration: none;
+}
+
+.input-wrapper input{
+    color: white;
+    background-color: #3b3b3b ;
+    width: 400px;
+    padding: 0.6rem 2.5rem;
+    border: 1px solid gray;
+    border-radius: 15px;
+    outline: none;
+}
